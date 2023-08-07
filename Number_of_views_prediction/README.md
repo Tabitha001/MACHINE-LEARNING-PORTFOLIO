@@ -1,6 +1,6 @@
 Overview
 
-The "Number of Views Prediction: A Data-driven Approach to Predicting Online Content Engagement" project focuses on accurately predicting the level of engagement and the number of views for online content, specifically articles. By leveraging a data-driven approach, the project aims to provide valuable insights to content creators and businesses, empowering them to optimize their content and maximize its reach and impact. Through data collection, feature engineering, model training, and performance evaluation, the project aims to create a robust and efficient prediction system for online content engagement.
+The "Number of Views Prediction: A Data-driven Approach to Predicting Online Content Engagement" project focuses on accurately predicting the number of views for online content, specifically articles. By leveraging a data-driven approach, the project aims to provide valuable insights to content creators and businesses, empowering them to optimize their content and maximize its reach and impact. Through data collection, feature engineering, model training, and performance evaluation, the project aims to create a robust and efficient prediction system for online content engagement.
 
 Motivation
 
