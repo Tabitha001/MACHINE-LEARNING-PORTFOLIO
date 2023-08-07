@@ -17,5 +17,4 @@ Maximize the overall ROI of the direct marketing campaigns through improved targ
 Data and Methodology
 
 The case study relies on a comprehensive dataset containing customer information, past campaign outcomes, and behavioral data. A number of Machine learning algorithms are applied to the data to build predictive models. These models are used to identify potential customers who are more likely to subscribe to term deposits, allowing the institution to personalize marketing offers and communication for each segment.
-
 By combining data-driven insights and machine learning techniques, the study aims to revolutionize the banking institution's direct marketing strategy for term deposits. The ultimate goal is to achieve higher subscription rates, increase customer satisfaction, and optimize marketing resources to yield a significant improvement in the institution's overall marketing performance. With this approach, the institution can make informed decisions and tailor its marketing efforts, leading to a more successful and efficient direct marketing campaign for term deposits.
