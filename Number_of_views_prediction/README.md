@@ -13,6 +13,8 @@ Gather data through web scraping, collecting diverse and relevant information on
 Conduct feature engineering to extract meaningful features from the collected data, which can be used as inputs for the prediction model.
 Train the prediction model using appropriate machine learning algorithms, aiming to capture patterns and relationships between content attributes and engagement metrics.
 Evaluate the performance of the prediction model using suitable evaluation metrics to ensure its accuracy and reliability.
+
+
 Data Collection and Methodology
 
 The project involves collecting a comprehensive dataset of online articles and their associated engagement metrics using web scraping techniques. The data is preprocessed to remove noise, extract relevant attributes, and prepare it for modeling.
