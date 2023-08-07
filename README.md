@@ -1,4 +1,5 @@
-# MACHINE-LEARNING-PORTFOLIO
+Hi, there! Find the details to my projects below
+
 
 
 1. [Financial distress prediction](https://github.com/Tabitha001/MACHINE-LEARNING-PORTFOLIO/blob/main/FINANCIAL%20DISTRESS%20PREDICTION/README.md)
