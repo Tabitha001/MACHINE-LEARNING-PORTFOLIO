@@ -18,11 +18,7 @@ Evaluate the performance of the prediction model using suitable evaluation metri
 Data Collection and Methodology
 
 The project involves collecting a comprehensive dataset of online articles and their associated engagement metrics using web scraping techniques. The data is preprocessed to remove noise, extract relevant attributes, and prepare it for modeling.
-
 Feature engineering techniques are applied to transform the collected data into meaningful features that can significantly impact content engagement.
-
 For model training, an ensemble method is employed to build a prediction model. The model learns from the features extracted from the dataset and aims to accurately predict the number of views and engagement metrics for new articles.
-
 To assess the model's performance, appropriate evaluation metrics, such as mean squared error or mean absolute error, are used to measure the prediction accuracy. The model is also validated on unseen data to ensure its ability to generalize to new content.
-
 Ultimately, the "Number of Views Prediction" project seeks to provide content creators and businesses with a powerful data-driven tool to optimize their content strategy and enhance online engagement. By accurately predicting content engagement metrics, the project aims to contribute to the success and impact of online content in the digital landscape.
