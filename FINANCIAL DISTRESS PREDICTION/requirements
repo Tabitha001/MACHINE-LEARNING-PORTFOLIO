@@ -1,0 +1,4 @@
+scikit-learn
+streamlit==1.27.2
+ngrok==7.0.0
+pickle
